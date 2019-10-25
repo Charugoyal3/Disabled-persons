@@ -1,2 +1,2 @@
 # Disabled-persons
-Web site to help the disabled people
+Welcome, This is a Website to help the disabled people
